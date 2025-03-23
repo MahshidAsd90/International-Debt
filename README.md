@@ -23,3 +23,15 @@ Country-wise debt amounts in USD.
 Categories of debt.
 
 Repayment amounts and other relevant financial metrics.
+
+# Results
+
+### The total number of unique countries in the dataset: 124
+
+### The country with the highest amount of debt:
+
+China with a total debt of $285,793,494,734.2
+
+### The country with the lowest repayment amount:
+
+Timor-Leste with a repayment of $825,000 on long-term external debt.
